@@ -1,0 +1,7 @@
+C:\Users\gues\source\repos\Simulacion\MetodoCongruencialMixto\MetodoCongruencialMixto\bin\Debug\MetodoCongruencialMixto.exe.config
+C:\Users\gues\source\repos\Simulacion\MetodoCongruencialMixto\MetodoCongruencialMixto\bin\Debug\MetodoCongruencialMixto.exe
+C:\Users\gues\source\repos\Simulacion\MetodoCongruencialMixto\MetodoCongruencialMixto\bin\Debug\MetodoCongruencialMixto.pdb
+C:\Users\gues\source\repos\Simulacion\MetodoCongruencialMixto\MetodoCongruencialMixto\obj\Debug\MetodoCongruencialMixto.csprojAssemblyReference.cache
+C:\Users\gues\source\repos\Simulacion\MetodoCongruencialMixto\MetodoCongruencialMixto\obj\Debug\MetodoCongruencialMixto.csproj.CoreCompileInputs.cache
+C:\Users\gues\source\repos\Simulacion\MetodoCongruencialMixto\MetodoCongruencialMixto\obj\Debug\MetodoCongruencialMixto.exe
+C:\Users\gues\source\repos\Simulacion\MetodoCongruencialMixto\MetodoCongruencialMixto\obj\Debug\MetodoCongruencialMixto.pdb
